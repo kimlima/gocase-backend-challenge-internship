@@ -22,7 +22,7 @@ In order to accomplish this, the API must fulfill the following use cases:
 
 - **Flag survivor as abducted**
 
-  In a chaotic situation like that, it's inevitable that a survivor may get abducted. When this happens, we need to flag the survivor as abducted.
+  In a chaotic situation like that, it's inevitable that a survivor may get abducted. When this happens, we need to flag the survivor was abducted.
 
   **A survivor is marked as abducted when at least three other survivors report their abduction.**
 
