@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-The world as we know it has fallen into an apocalyptic scenario. An alien invasion is abducting humans and swaping them for evil clones that look really similar to the original person.
+The world as we know it has fallen into an apocalyptic scenario. An alien invasion is abducting humans and swapping them for evil clones that look really similar to the original person.
 
 You, as a X-SUNIT member (and the last survivor who knows how to code), was designated to develop a system to share resources between non-abducted humans.
 
