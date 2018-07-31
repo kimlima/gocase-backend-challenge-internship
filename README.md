@@ -73,7 +73,7 @@ This a list of references to help you in your endeavour. But don't limit yoursel
 
 ## Credits
 
-- This was adapted from the Codeminer42 recruitment challenge.
+- This was inspired by the Codeminer42 recruitment challenge.
 - XCOM: Enemy Unknown
 
 **Your efforts will have considerable influence on this planet's future. We urge you to keep that in mind as you proceed. Good luck, Commander**
